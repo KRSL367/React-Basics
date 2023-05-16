@@ -1,0 +1,16 @@
+div{
+    text-align: center;
+}
+
+img{
+    border-radius: 25px;
+    width: 100px;
+    height: 100px;
+}
+
+.button{
+    margin-top: 3vb;
+    border-radius: 15px;
+    padding: 10px;
+    cursor: pointer;
+}
